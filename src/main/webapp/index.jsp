@@ -2,8 +2,8 @@
 	<head>
 		<title>Test Page</title>
 	</head>
-	<body style="background-color:magenta;">
-		<p>Hello SDET- you are the future of AQE..lag gaye</p>
+	<body style="background-color:pink;">
+		<p>Hello SDET- you are the future of AQE</p>
 		<input type="text" id="myText" value="">
 						<button onclick="myFunction()">Click Here</button>		
 						<p id="demo"></p>
